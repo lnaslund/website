@@ -10,18 +10,21 @@ main:
   - name: News
     url: '#posts'
     weight: 20
-  - name: Job Board
-    url: '#projects'
+  - name: Events
+    url: '#events'
     weight: 30
-  - name: Recent Publications
-    url: '#talks'
+  - name: 'Job Board'
+    url: '#jobs'
     weight: 40
-  - name: Opportunities
-    url: '#featured'
+  - name: 'Recent Publications'
+    url: '#publications'
     weight: 50
+  - name: Opportunities
+    url: '#opportunities'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

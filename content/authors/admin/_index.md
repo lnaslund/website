@@ -1,6 +1,6 @@
 ---
 bio: 
-email: ""
+email: "sfs.southeast@gmail.com"
 first_name: Southeast Chapter
 highlight_name: true
 last_name: Society for Freshwater Science
@@ -20,8 +20,6 @@ social:
 superuser: true
 title: Southeast Chapter of the Society for Freshwater Science
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
