@@ -21,5 +21,22 @@ superuser: true
 title: Southeast Chapter of the Society for Freshwater Science
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Mission Statement**
+
+The Southeast USA chapter of the Society for Freshwater Science (SFS) seeks to support and facilitate communication among SFS members working in southeastern ecosystems. We also aim to provide a bridge for non-SFS members to interact with the society at regional meetings to enhance engagement with other groups. 
+
+
+**Chapter’s Goal**  
+
+The Southeast USA Chapter is open to all those interested in freshwater science in the southeast USA. The southeastern USA is rich in freshwater resources and contains a disproportionate diversity of freshwater animals relative to the rest of the USA, with more than a quarter of the region’s species found nowhere else in the world. Unfortunately, the southeastern USA is also a hotspot for imperilment, in part because of intensive agricultural and urban development coupled with low priority for conservation. The Chapter aims to foster exchange of scientific information among the membership, and with other professional societies, resource managers, policy makers, educators, and the public in the Southeast USA. 
+
+Specific goals of the southeastern USA chapter include:
+- Increase engagement of southeastern Minority-Serving (MSI) and Undergraduate-Focused (UFI) institutions with SFS.
+- Increase undergraduate engagement in freshwater science.
+- Organize funded workshops and training experiences among labs 
+- Enhance regional collaborations 
+- Promote research and conservation of freshwater ecosystems in the southeast USA
+-  Develop a regional network of field sites and contacts for education and research
+- Increase engagement of southeastern researchers with the larger SFS organization
+
 
