@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Recent Posts
+title: News
 subtitle:
 
 content:

@@ -43,6 +43,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  job_types: '/job-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -56,6 +57,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
+  job_type: job_types
   author: authors
 markup:
   _merge: deep
