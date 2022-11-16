@@ -30,11 +30,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Twitter
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/SE_SFS'
     - icon: instagram
       icon_pack: fab
       name: Instagram
-      link: 'https://zoom.com'
+      link: 'https://www.instagram.com/southeastsfs/'
 
 design:
   columns: '2'
