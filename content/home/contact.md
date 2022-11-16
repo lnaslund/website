@@ -35,6 +35,20 @@ content:
       icon_pack: fab
       name: Instagram
       link: 'https://www.instagram.com/southeastsfs/'
+    - icon: user-magnifying-glass
+      icon_pack: fas
+      name: 'Submit a Job Posting'
+      link: 'https://forms.gle/Yhu1N7EzsjVKWpMTA'
+    - icon: user-magnifying-glass
+      icon_pack: fas
+      name: 'Submit News or an Opportunity'
+      link: 'https://forms.gle/TytBxrZUhMJpPaY5A'
+    - icon: user-magnifying-glass
+      icon_pack: fas
+      name: 'Submit a Recent Publication'
+      link: 'https://forms.gle/7a2MDdizcEbVqHgh7'
+      
+
 
 design:
   columns: '2'
