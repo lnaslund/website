@@ -1,5 +1,5 @@
 ---
-date: "2022-11-18T00:00:00Z"
+date: "2022-12-06T00:00:00Z"
 external_link: ""
 #image:
 #caption: Photo of stormwater pond
@@ -12,6 +12,7 @@ external_link: ""
 slides: ""
 summary: Application deadline December 15, 2022
 tags:
+- Non-academic
 title:  Wildlife Tech Georgia DNR
 url_code: ""
 url_pdf: ""
