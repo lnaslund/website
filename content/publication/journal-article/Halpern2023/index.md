@@ -3,7 +3,7 @@ abstract: "Synthesis research in ecology and environmental science improves unde
 author_notes: ""
 authors:
 - Benjamin S. Halpern
-- et al.
+- "et al."
 # date: "2015-09-01T00:00:00Z"
 doi: 'https://doi.org/10.1002/ecs2.4342'
 featured: false
