@@ -15,7 +15,7 @@ projects: []
 publication: '*Research Square*'
 publication_short: ""
 publication_types:
-- "1"
+- "3"
 publishDate: "2023-01-13T00:00:00Z"
 slides: ""
 summary: We investigated the effects of artificial light at night on fish assemblages in 20 lit-unlit paired stream reaches across 10 sites in Columbus, Ohio, USA across two years.
