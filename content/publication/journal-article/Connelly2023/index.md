@@ -20,7 +20,7 @@ publication: '*Science of The Total Environment, 870*(20)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-04-20T00:00:00Z"
+publishDate: "2023-01-27T00:00:00Z"
 slides: ""
 summary: A novel approach is employed to assess septic system condition at broad scales.
 tags:
