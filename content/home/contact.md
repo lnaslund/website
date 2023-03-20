@@ -47,6 +47,10 @@ content:
       icon_pack: fas
       name: 'Submit a Recent Publication'
       link: 'https://forms.gle/7a2MDdizcEbVqHgh7'
+    - icon: user-magnifying-glass
+      icon_pack: fas
+      name: 'Join our mailing list'
+      link: 'https://forms.gle/HhcMJnHEfBTyVAVS8'
       
 
 

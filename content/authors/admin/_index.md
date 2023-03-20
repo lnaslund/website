@@ -18,7 +18,7 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/southeastsfs/
 superuser: true
-title: Southeast Chapter of the Society for Freshwater Science
+title: Southeast USA Chapter of the Society for Freshwater Science
 ---
 
 **Mission Statement**
