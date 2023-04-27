@@ -1,4 +1,5 @@
 ---
+abstract: "The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA."
 # address:
   # city: Stanford
   # country: United States
@@ -11,7 +12,7 @@ date: "2023-11-08T10:00:00Z"
 date_end: "2023-11-09T15:00:00Z"
 event: Southeast USA Chapter of the Society for Freshwater Science Conference
 # event_url:
-featured: true
+featured: false
 image:
   caption: 'Image: Southeast USA SFS Chapter Logo'
   focal_point: Right
@@ -34,10 +35,7 @@ url_slides: ""
 url_video: ""
 ---
 
-The first ever Southeast USA Chapter Meeting will be held November 8-9 at the [Cunningham Conference Center](https://conference.columbusstate.edu/) in Columbus, GA.
-
-
-You can find the [tentative schedule](https://docs.google.com/spreadsheets/d/1d3knqp_XqqUT__1PK0CNounmzNDwkgGG/edit?usp=sharing&ouid=104074957416161539639&rtpof=true&sd=true) and [hotel deals](https://events.columbusstate.edu/hotels/) linked.
+You can find the [tentative schedule](https://docs.google.com/spreadsheets/d/1d3knqp_XqqUT__1PK0CNounmzNDwkgGG/edit?usp=sharing&ouid=104074957416161539639&rtpof=true&sd=true), [conference center information](https://conference.columbusstate.edu/) and [hotel deals](https://events.columbusstate.edu/hotels/) linked.
 
 
 
