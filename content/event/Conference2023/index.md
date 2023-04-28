@@ -1,11 +1,11 @@
 ---
-abstract: "The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA."
-# address:
-  # city: Stanford
-  # country: United States
-  # postcode: "94305"
-  # region: CA
-  # street: 450 Serra Mall
+abstract: 'The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA.'
+address:
+  city: Columbus
+  country: United States
+  postcode: "31907"
+  region: GA
+  street: 3100 Gentian Blvd
 all_day: false
 authors: []
 date: "2023-11-08T10:00:00Z"
@@ -24,7 +24,7 @@ image:
 #location: Wowchemy HQ
 projects:
 - meeting
-# publishDate: "2023-04-20T00:00:00Z"
+publishDate: "2023-04-27T00:00:00Z"
 # slides: example
 summary: Save the date for our first ever chapter conference in Columbus, GA on November 8-9th.
 tags: []
