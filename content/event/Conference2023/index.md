@@ -1,5 +1,5 @@
 ---
-abstract: 'The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA.'
+#abstract: 'The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA.'
 address:
   city: Columbus
   country: United States
@@ -8,7 +8,7 @@ address:
   street: 3100 Gentian Blvd
 all_day: false
 authors: []
-date: "2023-11-08T10:00:00Z"
+date: "2023-11-08T09:30:00Z"
 date_end: "2023-11-09T15:00:00Z"
 event: Southeast USA Chapter of the Society for Freshwater Science Conference
 event_url: https://secure.touchnet.com/C20612_ustores/web/product_detail.jsp?PRODUCTID=2496&FROMQRCODE=true
@@ -34,30 +34,50 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA.
 
-Register to attend the conference [here](https://secure.touchnet.com/C20612_ustores/web/product_detail.jsp?PRODUCTID=2496&FROMQRCODE=true). Early registration closes August 31st.
+## Registration and title submission
+- Register to attend the conference [here](https://secure.touchnet.com/C20612_ustores/web/product_detail.jsp?PRODUCTID=2496&FROMQRCODE=true). Early registration closes August 31st.
+- Submit a title for an oral or poster presentation [here](https://columbusstate.formstack.com/forms/faculty_and_graduate_research_conference_proposal) through Sept 30th. Our focus will be providing opportunities for students and early career scientists.
 
-Submit a title for an oral or poster presentation [here](https://columbusstate.formstack.com/forms/faculty_and_graduate_research_conference_proposal) through Sept 30th. Our focus will be providing opportunities for students and early career scientists.
+Early Registration June 1st - August 31st
+| Registration type | Price |
+| ----------------- | ----- |
+| Student/SE SFS Chapter members | $45 |
+| Student/Non-members | $50 |
+| Postdoc/Early Career Chapter members | $55 |
+| Postdoc/Early Career non-members | $60 |
+| Regular Chapter Members | $60 |
+| Regular non-members | $65 |
 
-You can find the [tentative schedule](https://docs.google.com/spreadsheets/d/1d3knqp_XqqUT__1PK0CNounmzNDwkgGG/edit?usp=sharing&ouid=104074957416161539639&rtpof=true&sd=true), [conference center information](https://conference.columbusstate.edu/) and [hotel deals](https://events.columbusstate.edu/hotels/) linked.
+Late Registration Sept 1 - Nov 1
+| Registration type | Price |
+| ----------------- | ----- |
+| Student/SE SFS Chapter members | $55 |
+| Student/Non-members | $60 |
+| Postdoc/Early Career Chapter members | $65 |
+| Postdoc/Early Career non-members | $70 |
+| Regular Chapter Members | $70 |
+| Regular non-members | $75 |
 
+## Logistics
+- [Tentative schedule](https://docs.google.com/spreadsheets/d/1d3knqp_XqqUT__1PK0CNounmzNDwkgGG/edit?usp=sharing&ouid=104074957416161539639&rtpof=true&sd=true)
+- [Conference center information](https://conference.columbusstate.edu/)
+- [Coordinate ride share](https://docs.google.com/spreadsheets/d/1Xyq5hOKP3jWTuMt1YGy7npOpCpiQrQPMmdZHLKNVcjw/edit?usp=sharing)
+- [Hotel deals](https://events.columbusstate.edu/hotels/)
 
+## Plenary
+### Changing the course: a proposal to dramatically raise the profile of southeastern aquatic biodiversity
 
-**Early Registration June 1st - August 31st**
+![Anna George](ALG_2023.jpg)
+Dr. Anna George, Vice President of Conservation Science and Education at the Tennessee Aquarium, discovered early in life that being a biologist provided a good excuse to be outside.  During her undergraduate and graduate coursework in biology at the University of Virginia and Saint Louis University, she worked in both freshwater and marine systems to study the conservation, ecology, and evolution of fishes. Since joining the Tennessee Aquarium in 2006, she has led research and outreach initiatives in habitat restoration, species reintroduction, and biodiversity protection for the diverse freshwater fauna of the southeastern United States.  Her enthusiasm for educating scientists and non-scientists alike reflects her passion for collaborative conservation problem-solving. 
 
-Student/SE SFS Chapter members - $45
+![Seth Wenger](wenger2014.jpg)
+Dr. Seth Wenger is a conservation biologist and freshwater ecologist at the University of Georgia Odum School of Ecology. He serves as the Director of Science of UGA's River Basin Center, which connects the water-related research at the university with management and policy needs. His lab group engages in a wide range of applied research in diverse locations, but with a special emphasis on understanding and managing threats to the exceptional freshwater biodiversity of the southeastern US. 
 
-Student/Non-members - $50
+## Workshops
+### Social Field Safety
+Fieldwork is integral to the practice of freshwater science. However, researchers with marginalized identities face an increased risk of physical, psychological, and emotional harm while conducting field research due to discrimination from the local community and/or colleagues (Demery & Pipkin 2021). The risk of conflict and violence from identity-based discrimination is termed social safety risk (Pharr & Burgess 2023). Training to mitigate field risks has historically focused on environmental risks and excluded social safety risks (Demery & Pipkin 2021). Through a panel discussion and interactive scenarios exercise, this workshop will guide participants to consider the social field safety risks in their work and identify strategies to mitigate these risks.
 
-Postdoc/Early Career Chapter members - $55
-
-Postdoc/Early Career non-members - $60
-
-SE SFS Chapter Members - $60
-
-Non-members - $65
-
-
-**Late Registration Sept 1 - Nov 1**
-
-Base rates + $10
+### Mentor Mapping
+This workshop will help participants identify their mentors and mentoring needs.
