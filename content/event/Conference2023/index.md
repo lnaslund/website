@@ -36,6 +36,10 @@ url_video: ""
 ---
 The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cunningham Conference Center in Columbus, GA.
 
+## Schedule
+- [At-a-glance](https://drive.google.com/file/d/1rtvaQmaz6yCKs-vCgeqswNs07LNuYub4/view?usp=sharing)
+- [Presentation schedule](https://drive.google.com/file/d/1t5I3Jq0Fy0d1EwiCzBjjdNxX9Gl0Wz-L/view?usp=sharing)
+
 ## Registration and title submission
 - Register to attend the conference [here](https://secure.touchnet.com/C20612_ustores/web/product_detail.jsp?PRODUCTID=2496&FROMQRCODE=true). Early registration closes August 31st.
 - Submit a title for an oral or poster presentation [here](https://columbusstate.formstack.com/forms/faculty_and_graduate_research_conference_proposal) through Sept 30th. Our focus will be providing opportunities for students and early career scientists.
@@ -61,7 +65,6 @@ Late Registration Sept 1 - Nov 1
 | Regular non-members | $75 |
 
 ## Logistics
-- [Tentative schedule](https://docs.google.com/spreadsheets/d/1d3knqp_XqqUT__1PK0CNounmzNDwkgGG/edit?usp=sharing&ouid=104074957416161539639&rtpof=true&sd=true)
 - [Conference center information](https://conference.columbusstate.edu/)
 - [Coordinate ride share](https://docs.google.com/spreadsheets/d/1Xyq5hOKP3jWTuMt1YGy7npOpCpiQrQPMmdZHLKNVcjw/edit?usp=sharing)
 - [Hotel deals](https://events.columbusstate.edu/hotels/)
@@ -81,3 +84,15 @@ Fieldwork is integral to the practice of freshwater science. However, researcher
 
 ### Mentor Mapping
 This workshop will help participants identify their mentors and mentoring needs.
+
+### SFS Emerge & Instars Social Gathering
+When: Wed, Nov 8, 6:30 PM
+
+Where: Jarfly (1358 13th St., Columbus, GA 31901)
+
+Come mingle with SFS Emerge & Instars program leadership and Fellows! If you are a current or former Emerge or Instars fellow, interested in learning more, or just want to come say hi, please join us. Look for us in the Emerge hats.
+
+*Please note: Attendees will need to manage their own dining expenses.*
+
+![Emerge flyer](EmergeSFS_SE_Social_square.png)
+
