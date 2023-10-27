@@ -38,7 +38,7 @@ The first ever Southeast USA Chapter Meeting will be held November 8-9 at the Cu
 
 ## Schedule
 - [At-a-glance](https://drive.google.com/file/d/1rtvaQmaz6yCKs-vCgeqswNs07LNuYub4/view?usp=sharing)
-- [Presentation schedule](https://drive.google.com/file/d/1t5I3Jq0Fy0d1EwiCzBjjdNxX9Gl0Wz-L/view?usp=sharing)
+- [Presentation schedule](https://drive.google.com/file/d/1O5E3E0G7eBJ7gv5C1iq6QsmEwk-rgAPm/view?usp=sharing)
 
 ## Registration and title submission
 - Register to attend the conference [here](https://secure.touchnet.com/C20612_ustores/web/product_detail.jsp?PRODUCTID=2496&FROMQRCODE=true). Early registration closes August 31st.
