@@ -13,12 +13,12 @@ main:
   - name: Events
     url: '#events'
     weight: 30
-  - name: 'Job Board'
-    url: '#projects'
-    weight: 40
-  - name: 'Recent Publications'
-    url: '#publications'
-    weight: 50
+  # - name: 'Job Board'
+  #   url: '#projects'
+  #   weight: 40
+  # - name: 'Recent Publications'
+  #   url: '#publications'
+  #   weight: 50
   - name: Opportunities
     url: '#opportunities'
     weight: 60

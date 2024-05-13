@@ -44,4 +44,4 @@ Specific goals of the southeastern USA chapter include:
 President/Chair - Carla Atkinson (carla.l.atkinson@ua.edu)  
 Secretary/Treasurer - Krista Capps (kcapps@uga.edu)  
 Vice President/Chair - A.J. Reisinger (reisingera@ufl.edu)  
-Social Media Chair - Laura Naslund (laura.naslund@uga.edu)  
+Social Media Chair - Chelsea Smith (crsmith5@crimson.ua.edu)  
