@@ -45,3 +45,5 @@ President/Chair - Carla Atkinson (carla.l.atkinson@ua.edu)
 Secretary/Treasurer - Krista Capps (kcapps@uga.edu)  
 Vice President/Chair - A.J. Reisinger (reisingera@ufl.edu)  
 Social Media Chair - Chelsea Smith (crsmith5@crimson.ua.edu)  
+
+To join our mailing list or advertise a job posting or opportunity on chapter platforms, email sfs.southeast@gmail.com.
